@@ -1,6 +1,6 @@
 # apiwriting
 
-# 🚀 Deployment API (FastAPI)
+# Deployment API (FastAPI)
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-green)
@@ -12,20 +12,20 @@ This project demonstrates REST API design, background processing, and basic back
 
 ---
 
-## 📌 Features
+## Features
 
-- ✅ Create deployment jobs
-- ✅ Track deployment status
-- ✅ Background processing using threads
-- ✅ List all deployments
-- ✅ Delete deployments
-- ✅ Logging support
-- ✅ Environment-based configuration
-- ✅ Auto-generated API documentation
+- Create deployment jobs
+- Track deployment status
+- Background processing using threads
+- List all deployments
+- Delete deployments
+- Logging support
+- Environment-based configuration
+- Auto-generated API documentation
 
 ---
 
-## 🧠 Architecture Overview
+## Architecture Overview
 
  POST /deployments
               │
